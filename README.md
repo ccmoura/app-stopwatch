@@ -3,7 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Stopwatch in react-native
+### Stopwatch in react-native
+
 <p>
   <img width="270" height="480" alt="Version" src="./images/screen.png" />
 </p>
